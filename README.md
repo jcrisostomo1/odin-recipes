@@ -1,2 +1,5 @@
 # odin-recipes
-First Odin HTML Project to learn about HTML basics!
+
+Project to learn the basics of HTML from the Odin Project.
+
+Sample website with favorite recipes.
